@@ -5820,16 +5820,20 @@ button.close {
   border-top: 4px solid #3071a9; }
 
 .navbar-logo {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   padding: 8px 15px;
   font-weight: bold; }
   .navbar-logo img {
     display: inline-block;
     height: 36px;
     margin-right: 10px; }
-  .navbar-logo:hover {
+  .navbar-logo:hover, .navbar-logo:focus {
     text-decoration: none;
     color: #255681; }
+  .navbar-logo .text-muted {
+    color: #4d4d4d;
+    font-size: 95%; }
 
 .content {
   background-color: white;
@@ -5898,10 +5902,10 @@ button.close {
     margin-bottom: 25px; }
   .page-footer h4 {
     text-transform: uppercase; }
-
-@media (max-width: 767px) {
-  .page-footer {
-    text-align: center; } }
+  .page-footer.simpala .menu {
+    display: inline-block;
+    width: 232px;
+    vertical-align: top; }
 
 .blog .archive-list, .blog .category-list, .blog .tag-list, .help .archive-list, .help .category-list, .help .tag-list {
   list-style: none;
