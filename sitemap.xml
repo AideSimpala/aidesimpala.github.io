@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://assistance.simpala.net/2018/01/27/gradebook/saisir-les-notes/</loc>
+    <loc>https://assistance.simpala.net/index.html</loc>
+    
+    <lastmod>2018-02-02T05:56:48.101Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/2018/01/27/console/creer-un-groupe/</loc>
     
     <lastmod>2018-01-28T23:00:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/2018/01/27/console/creer-un-groupe/</loc>
+    <loc>https://assistance.simpala.net/2018/01/27/gradebook/saisir-les-notes/</loc>
     
     <lastmod>2018-01-28T23:00:00.000Z</lastmod>
     
@@ -26,13 +33,6 @@
     <loc>https://assistance.simpala.net/2018/01/23/console/permettre-a-des-utilisateurs-de-se-connecter/</loc>
     
     <lastmod>2018-01-28T03:21:46.169Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://assistance.simpala.net/index.html</loc>
-    
-    <lastmod>2018-01-28T03:20:24.528Z</lastmod>
     
   </url>
   
