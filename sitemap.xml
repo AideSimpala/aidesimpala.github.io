@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://assistance.simpala.net/gradebook/pour-quelle-periode-va-compter-une-sanction-disciplinaire-infligee/</loc>
+    <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
     
-    <lastmod>2018-02-09T18:35:11.873Z</lastmod>
+    <lastmod>2018-02-21T10:40:22.434Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/console/inscrire-un-eleve-dans-une-classe/</loc>
+    
+    <lastmod>2018-02-21T10:00:19.488Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://assistance.simpala.net/gradebook/personnaliser-les-appreciations-du-travail-d-un-apprenant/</loc>
     
-    <lastmod>2018-02-09T16:28:43.996Z</lastmod>
+    <lastmod>2018-02-16T17:00:31.430Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/gradebook/pour-quelle-periode-va-compter-une-sanction-disciplinaire-infligee/</loc>
+    
+    <lastmod>2018-02-09T18:35:11.873Z</lastmod>
     
   </url>
   
@@ -30,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/console/creer-un-groupe/</loc>
+    <loc>https://assistance.simpala.net/console/declarer-une-classe-ouverte-pour-l-annee-en-cours/</loc>
     
     <lastmod>2018-01-28T23:00:00.000Z</lastmod>
     
@@ -38,6 +52,13 @@
   
   <url>
     <loc>https://assistance.simpala.net/gradebook/saisir-les-notes/</loc>
+    
+    <lastmod>2018-01-28T23:00:00.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/console/creer-un-groupe/</loc>
     
     <lastmod>2018-01-28T23:00:00.000Z</lastmod>
     
@@ -58,14 +79,14 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/identification/initialiser-mon-mot-de-passe-sur-simpala/</loc>
+    <loc>https://assistance.simpala.net/identification/s-identifier-sur-simpala/</loc>
     
     <lastmod>2018-01-28T03:20:24.424Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/identification/s-identifier-sur-simpala/</loc>
+    <loc>https://assistance.simpala.net/identification/initialiser-mon-mot-de-passe-sur-simpala/</loc>
     
     <lastmod>2018-01-28T03:20:24.424Z</lastmod>
     
