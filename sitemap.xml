@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://assistance.simpala.net/console/creer-un-nouveau-compte-utilisateur/</loc>
+    
+    <lastmod>2018-02-22T16:57:34.651Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/console/visualiser-les-permissions-d-un-utilisateur/</loc>
+    
+    <lastmod>2018-02-22T16:08:35.651Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/console/visualiser-les-permissions-d-un-groupe/</loc>
+    
+    <lastmod>2018-02-22T16:08:35.647Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/console/creer-un-compte-parent-ou-tuteur/</loc>
+    
+    <lastmod>2018-02-22T10:33:10.473Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/console/creer-un-compte-enseignant/</loc>
+    
+    <lastmod>2018-02-22T10:32:58.769Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/console/creer-un-compte-pour-personnel-administratif/</loc>
+    
+    <lastmod>2018-02-22T10:32:50.357Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
     
     <lastmod>2018-02-21T10:40:22.434Z</lastmod>
@@ -79,14 +121,14 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/identification/s-identifier-sur-simpala/</loc>
+    <loc>https://assistance.simpala.net/identification/initialiser-mon-mot-de-passe-sur-simpala/</loc>
     
     <lastmod>2018-01-28T03:20:24.424Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/identification/initialiser-mon-mot-de-passe-sur-simpala/</loc>
+    <loc>https://assistance.simpala.net/identification/s-identifier-sur-simpala/</loc>
     
     <lastmod>2018-01-28T03:20:24.424Z</lastmod>
     
@@ -103,20 +145,6 @@
     <loc>https://assistance.simpala.net/identification/changer-mon-mot-de-passe-sur-simpala/</loc>
     
     <lastmod>2018-01-28T03:20:24.412Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://assistance.simpala.net/console/visualiser-les-permissions-d-un-utilisateur/</loc>
-    
-    <lastmod>2018-01-28T03:20:24.400Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://assistance.simpala.net/console/visualiser-les-permissions-d-un-groupe/</loc>
-    
-    <lastmod>2018-01-28T03:20:24.396Z</lastmod>
     
   </url>
   
