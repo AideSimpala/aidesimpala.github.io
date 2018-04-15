@@ -44,6 +44,13 @@
   </url>
   
   <url>
+    <loc>https://assistance.simpala.net/gradebook/choisir-le-type-de-bulletin-et-modifier-les-entetes-et-textes-des-signatures/</loc>
+    
+    <lastmod>2018-04-09T06:12:04.361Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-une-classe/</loc>
     
     <lastmod>2018-03-16T09:55:16.158Z</lastmod>
@@ -72,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/gradebook/definir-les-groupes-de-matieres/</loc>
+    <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
     
     <lastmod>2018-03-16T08:21:00.436Z</lastmod>
     
@@ -86,9 +93,16 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
+    <loc>https://assistance.simpala.net/gradebook/definir-les-groupes-de-matieres/</loc>
     
     <lastmod>2018-03-16T08:21:00.436Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/gradebook/definir-les-methodes-de-calcul-des-moyennes/</loc>
+    
+    <lastmod>2018-03-16T08:21:00.432Z</lastmod>
     
   </url>
   
@@ -149,14 +163,14 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/console/declarer-une-classe-ouverte-pour-l-annee-en-cours/</loc>
+    <loc>https://assistance.simpala.net/console/creer-un-groupe/</loc>
     
     <lastmod>2018-01-28T23:00:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/console/creer-un-groupe/</loc>
+    <loc>https://assistance.simpala.net/console/declarer-une-classe-ouverte-pour-l-annee-en-cours/</loc>
     
     <lastmod>2018-01-28T23:00:00.000Z</lastmod>
     
