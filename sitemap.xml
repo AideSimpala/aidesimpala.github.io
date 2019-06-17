@@ -2,9 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://assistance.simpala.net/finance/annuler-une-depense/</loc>
+    
+    <lastmod>2019-06-17T13:01:38.680Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/finance/ajouter-une-depense/</loc>
+    
+    <lastmod>2019-06-17T12:59:19.657Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/finance/gerer-les-depenses/</loc>
+    
+    <lastmod>2019-06-17T12:55:52.825Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/formations/gerer-les-finances-avec-simpala/</loc>
+    
+    <lastmod>2019-06-17T12:55:33.641Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/finance/inserer-un-versement/</loc>
+    
+    <lastmod>2019-06-17T12:46:11.529Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/finance/activer-les-rapports-financiers-journaliers/</loc>
+    
+    <lastmod>2019-06-17T12:38:33.209Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/finance/acceder-au-dossier-finance-d-un-eleve/</loc>
+    
+    <lastmod>2019-06-17T12:34:45.233Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/finance/definir-les-montants-des-frais-de-scolarites-par-classe/</loc>
+    
+    <lastmod>2019-06-17T12:11:40.230Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/finance/definir-les-frais-de-scolarites/</loc>
+    
+    <lastmod>2019-06-17T12:09:42.490Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/gradebook/definir-les-parametres-generaux-d-une-classe/</loc>
+    
+    <lastmod>2019-06-17T11:50:47.253Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/console/creer-un-compte-utilisateur/</loc>
+    
+    <lastmod>2019-06-17T11:50:47.249Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://assistance.simpala.net/gradebook/choisir-le-type-de-bulletin-et-modifier-les-entetes-et-textes-des-signatures/</loc>
     
     <lastmod>2018-10-31T14:53:07.290Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/finance/configurer-les-parametres-financiers-de-son-etablissement/</loc>
+    
+    <lastmod>2018-06-22T00:24:24.517Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/finance/definir-les-categories-de-depences/</loc>
+    
+    <lastmod>2018-06-22T00:24:24.517Z</lastmod>
     
   </url>
   
@@ -79,14 +170,14 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/gradebook/personnaliser-les-appreciations-du-travail-d-un-apprenant/</loc>
+    <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
     
     <lastmod>2018-03-16T08:21:00.436Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
+    <loc>https://assistance.simpala.net/gradebook/personnaliser-les-appreciations-du-travail-d-un-apprenant/</loc>
     
     <lastmod>2018-03-16T08:21:00.436Z</lastmod>
     
@@ -96,20 +187,6 @@
     <loc>https://assistance.simpala.net/gradebook/definir-les-groupes-de-matieres/</loc>
     
     <lastmod>2018-03-16T08:21:00.436Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://assistance.simpala.net/gradebook/definir-les-methodes-de-calcul-des-moyennes/</loc>
-    
-    <lastmod>2018-03-16T08:21:00.432Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://assistance.simpala.net/console/creer-un-nouveau-compte-utilisateur/</loc>
-    
-    <lastmod>2018-02-22T16:57:34.651Z</lastmod>
     
   </url>
   
@@ -163,14 +240,14 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/console/creer-un-groupe/</loc>
+    <loc>https://assistance.simpala.net/console/declarer-une-classe-ouverte-pour-l-annee-en-cours/</loc>
     
     <lastmod>2018-01-28T23:00:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/console/declarer-une-classe-ouverte-pour-l-annee-en-cours/</loc>
+    <loc>https://assistance.simpala.net/console/creer-un-groupe/</loc>
     
     <lastmod>2018-01-28T23:00:00.000Z</lastmod>
     
