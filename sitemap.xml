@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://assistance.simpala.net/console/definir-le-logo-et-l-adresse-de-l-etablissement/</loc>
+    
+    <lastmod>2019-06-19T10:27:09.302Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/formations/gerer-les-bulletins-de-notes-avec-simpala/</loc>
+    
+    <lastmod>2019-06-19T10:06:49.371Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/formations/gerer-les-finances-avec-simpala/</loc>
+    
+    <lastmod>2019-06-19T10:06:07.224Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://assistance.simpala.net/finance/annuler-une-depense/</loc>
     
     <lastmod>2019-06-17T13:01:38.680Z</lastmod>
@@ -19,13 +40,6 @@
     <loc>https://assistance.simpala.net/finance/gerer-les-depenses/</loc>
     
     <lastmod>2019-06-17T12:55:52.825Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://assistance.simpala.net/formations/gerer-les-finances-avec-simpala/</loc>
-    
-    <lastmod>2019-06-17T12:55:33.641Z</lastmod>
     
   </url>
   
@@ -79,6 +93,13 @@
   </url>
   
   <url>
+    <loc>https://assistance.simpala.net/console/creer-une-classe/</loc>
+    
+    <lastmod>2019-06-17T11:50:47.225Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://assistance.simpala.net/gradebook/choisir-le-type-de-bulletin-et-modifier-les-entetes-et-textes-des-signatures/</loc>
     
     <lastmod>2018-10-31T14:53:07.290Z</lastmod>
@@ -114,13 +135,6 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/formations/gerer-les-bulletins-de-notes-avec-simpala/</loc>
-    
-    <lastmod>2018-04-14T23:44:29.923Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://assistance.simpala.net/console/inscrire-un-eleve-dans-une-classe/</loc>
     
     <lastmod>2018-04-09T06:20:50.357Z</lastmod>
@@ -138,6 +152,13 @@
     <loc>https://assistance.simpala.net/console/permettre-a-des-utilisateurs-de-se-connecter/</loc>
     
     <lastmod>2018-04-09T06:12:04.381Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/console/definir-la-photo-d-un-eleve/</loc>
+    
+    <lastmod>2018-04-09T06:12:04.337Z</lastmod>
     
   </url>
   
@@ -170,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
+    <loc>https://assistance.simpala.net/gradebook/definir-les-groupes-de-matieres/</loc>
     
     <lastmod>2018-03-16T08:21:00.436Z</lastmod>
     
@@ -184,7 +205,7 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/gradebook/definir-les-groupes-de-matieres/</loc>
+    <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
     
     <lastmod>2018-03-16T08:21:00.436Z</lastmod>
     
