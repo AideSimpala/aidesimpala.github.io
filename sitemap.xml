@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
+    
+    <lastmod>2019-10-04T15:23:24.300Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://assistance.simpala.net/gradebook/definir-les-groupes-de-matieres/</loc>
+    
+    <lastmod>2019-10-04T15:23:11.960Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://assistance.simpala.net/console/creer-un-compte-pour-personnel-administratif/</loc>
     
     <lastmod>2019-09-08T19:47:13.706Z</lastmod>
@@ -142,14 +156,14 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/finance/definir-les-categories-de-depences/</loc>
+    <loc>https://assistance.simpala.net/finance/configurer-les-parametres-financiers-de-son-etablissement/</loc>
     
     <lastmod>2018-06-22T00:24:24.517Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/finance/configurer-les-parametres-financiers-de-son-etablissement/</loc>
+    <loc>https://assistance.simpala.net/finance/definir-les-categories-de-depences/</loc>
     
     <lastmod>2018-06-22T00:24:24.517Z</lastmod>
     
@@ -198,13 +212,6 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/gradebook/signaler-les-eleves-absents-inaptes-ou-dispenses/</loc>
-    
-    <lastmod>2018-03-16T08:21:00.440Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://assistance.simpala.net/gradebook/saisir-les-notes/</loc>
     
     <lastmod>2018-03-16T08:21:00.440Z</lastmod>
@@ -212,16 +219,9 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/gradebook/definir-les-groupes-de-matieres/</loc>
+    <loc>https://assistance.simpala.net/gradebook/signaler-les-eleves-absents-inaptes-ou-dispenses/</loc>
     
-    <lastmod>2018-03-16T08:21:00.436Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://assistance.simpala.net/gradebook/declarer-les-matieres-dispensees-dans-l-etablissement/</loc>
-    
-    <lastmod>2018-03-16T08:21:00.436Z</lastmod>
+    <lastmod>2018-03-16T08:21:00.440Z</lastmod>
     
   </url>
   
@@ -282,14 +282,14 @@
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/identification/s-identifier-sur-simpala/</loc>
+    <loc>https://assistance.simpala.net/identification/initialiser-mon-mot-de-passe-sur-simpala/</loc>
     
     <lastmod>2018-01-28T03:20:24.424Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://assistance.simpala.net/identification/initialiser-mon-mot-de-passe-sur-simpala/</loc>
+    <loc>https://assistance.simpala.net/identification/s-identifier-sur-simpala/</loc>
     
     <lastmod>2018-01-28T03:20:24.424Z</lastmod>
     
